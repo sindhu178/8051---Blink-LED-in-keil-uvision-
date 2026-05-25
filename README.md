@@ -13,35 +13,35 @@ This project demonstrates a simple LED blinking program using Keil uVision for a
 
 Features:
 
-GPIO pin configuration for LED output
+👉GPIO pin configuration for LED output
 
-Continuous LED blinking operation
+👉Continuous LED blinking operation
 
-Simple delay implementation
+👉Simple delay implementation
 
-Beginner-friendly embedded systems project
+👉Beginner-friendly embedded systems project
 
 
 
 Software Requirements:
 
-Keil uVision IDE
+➡️Keil uVision IDE
 
-Embedded C language
+➡️Embedded C language
 
-Microcontroller SDK / Header files
+➡️Microcontroller SDK / Header files
 
 
 
 Hardware Requirements:
 
-Microcontroller development board
+▶️Microcontroller development board
 
-LED
+▶️LED
 
-Resistor (220Ω recommended)
+▶️Resistor (220Ω recommended)
 
-USB cable / Power supply
+▶️USB cable / Power supply
 
 
 
@@ -53,23 +53,23 @@ The microcontroller configures the selected GPIO pin as an output pin. The progr
 
 Project Structure:
 
-main.c – Contains the main program code
+🔸main.c – Contains the main program code
 
-startup files – Microcontroller startup configuration
+🔸startup files – Microcontroller startup configuration
 
-header files – Register and GPIO definitions
+🔸header files – Register and GPIO definitions
 
 
 
 Applications:
 
-Learning embedded systems basics
+📎Learning embedded systems basics
 
-GPIO interfacing practice
+📎GPIO interfacing practice
 
-Beginner microcontroller projects
+📎Beginner microcontroller projects
 
-Testing development boards
+📎Testing development boards
 
 
 
